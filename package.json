@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-UkrainianSweetshots/",
+    "build": "vite build --base=/Vishivanka-vibes/",
     "preview": "vite preview"
   },
   "devDependencies": {
